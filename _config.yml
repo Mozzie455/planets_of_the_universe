@@ -1,3 +1,4 @@
 markdown: kramdown
 baseurl: /planets_of_the_universe/
 exclude: ['README.md']
+permalink: pretty
