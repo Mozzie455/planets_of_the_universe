@@ -2,3 +2,8 @@ markdown: kramdown
 baseurl: /planets_of_the_universe/
 exclude: ['README.md']
 permalink: pretty
+
+collections:
+   comets:
+     output: true
+     permalink: /comets/:path/
